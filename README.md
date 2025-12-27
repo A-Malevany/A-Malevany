@@ -20,6 +20,7 @@ I specialize in custom development, integrations, and clean, scalable code.
 - HTML5, CSS3, SCSS / SASS
 - JavaScript (ES6+), jQuery
 - Vue.js and Vue ecosystem
+- Svelte
 - Responsive & adaptive layouts
 - BEM, reusable components, clean markup
 - Cross-browser compatibility & performance optimization
