@@ -67,6 +67,5 @@ I focus on:
 
 ### 📫 Contact
 
-- GitHub: https://github.com/A-Malevany
 - Telegram: https://t.me/alexmalevany
 - Email: malevany9@gmail.com
